@@ -3,10 +3,12 @@
     "3mgc": "tux.png",
     "grannydestroyer": "momo.gif",
     "Mr_Apendice": "priv_mr_apendice_sharito.png",
-    "pepingo": "momo.gif"
+    "pepingo": "momo.gif",
+    "rexxsito": "priv_rexxsito_rexxsitoloba.png"
   },
   "private_capes": {
-    "Mr_Apendice": "priv_mr_apendice_sharito.png"
+    "Mr_Apendice": "priv_mr_apendice_sharito.png",
+    "rexxsito": "priv_rexxsito_rexxsitoloba.png"
   },
   "public_capes": []
 }
