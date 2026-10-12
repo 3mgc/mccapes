@@ -2,6 +2,10 @@
   "users": {
     "3mgc": "momo.gif",
     "grannydestroyer": "momo.gif",
-    "Mr_Apendice": "fire.png"
-  }
+    "Mr_Apendice": "priv_mr_apendice_sharito.png"
+  },
+  "private_capes": {
+    "Mr_Apendice": "priv_mr_apendice_sharito.png"
+  },
+  "public_capes": []
 }
